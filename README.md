@@ -36,5 +36,7 @@ This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to detect hand la
 Clone the repository:
 
 ```bash
-git clone 
+
+git clone https://github.com/iamFardeen007/Ai_VIrtual_Mouse.git
+
 
